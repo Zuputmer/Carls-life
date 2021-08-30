@@ -6,4 +6,4 @@ Little did Carl know, his reality was set to be turned upside down by those clos
 Contributors->
   - Ansel (art director)
   - Octavia (chief game tester)
-  - Lycurgue (professional hug giver)
+  - Lycurgue (professional story writer)
