@@ -4,7 +4,7 @@ Carl was a simple man. He loved his wife, kids, house, and dog. In other words, 
 Little did Carl know, his reality was set to be turned upside down by those closest to him.
 
 Contributors->
-  - Ansel (art director)
+  - Anzel (aka Dragon Maid Enthusiast) (aka Varis) (aka CrackHeadLoli) (art director)
   - Octavia (chief game tester)
   - Lycurgue (professional story writer)
   - Durin (dwarf)
