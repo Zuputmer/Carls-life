@@ -7,3 +7,4 @@ Contributors->
   - Ansel (art director)
   - Octavia (chief game tester)
   - Lycurgue (professional story writer)
+  - Durin (dwarf)
